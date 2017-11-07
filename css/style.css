@@ -11,7 +11,7 @@ html {
 
 .bg {
   /* The image used */
-  background-image: url("/Users/akhilakandi/Downloads/bg1.jpg");
+  background-image: url("/images/bg1.jpg");
   /* Full height */
   height: 100%;
   /* Center and scale the image nicely */
@@ -20,16 +20,6 @@ html {
   background-size: cover;
 }
 
-.bg2 {
-  /* The image used */
-  background-image: url("/Users/akhilakandi/Downloads/bg2.jpg");
-  /* Full height */
-  height: 100%;
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 .img-circle {
   border-radius: 50%;
